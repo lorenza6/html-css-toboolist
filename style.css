@@ -14,4 +14,55 @@ main {
   background-color: rgb(99, 177, 216);
   border-radius: 3px;
   color: aliceblue;
+  padding: 5px;
+}
+li {
+  list-style: none;
+}
+.bottone2 {
+  border-radius: 3px;
+  background-color: white;
+  color: grey;
+  border-color: grey;
+  padding: 5px;
+}
+.bottone1 {
+  border: none;
+  background-color: rgb(99, 177, 216);
+  color: white;
+  border-radius: 8px;
+  padding: 3px;
+}
+.bottoneviola {
+  border: none;
+  background-color: blueviolet;
+  border-radius: 8px;
+  color: white;
+}
+.bottoneverde {
+  background-color: rgb(100, 176, 151);
+  color: white;
+  border-radius: 8px;
+  border: none;
+}
+.bottonearancione {
+  background-color: orange;
+  color: white;
+  border-radius: 8px;
+  border: none;
+}
+.bottonerosa {
+  background-color: rgb(223, 43, 226);
+  color: white;
+  border-radius: 8px;
+  border: none;
+}
+.bottoneverdino {
+  background-color: rgb(144, 255, 127);
+  color: white;
+  border-radius: 8px;
+  border: none;
+}
+.white {
+  color: aliceblue;
 }
